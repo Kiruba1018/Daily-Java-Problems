@@ -1,4 +1,4 @@
-var a = 10
+var a = 30
 var b = 20
 if(a<b){
   console.log("Small:"+a)
